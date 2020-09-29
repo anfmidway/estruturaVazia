@@ -1,0 +1,7 @@
+F:\Projetos\Novos\2020\EstruturaVazia\CSN.MESCDPTC.Service\bin\Debug\CSN.MESCDPTC.Service.exe.config
+F:\Projetos\Novos\2020\EstruturaVazia\CSN.MESCDPTC.Service\bin\Debug\CSN.MESCDPTC.Service.exe
+F:\Projetos\Novos\2020\EstruturaVazia\CSN.MESCDPTC.Service\bin\Debug\CSN.MESCDPTC.Service.pdb
+F:\Projetos\Novos\2020\EstruturaVazia\CSN.MESCDPTC.Service\obj\Debug\CSN.MESCDPTC.Service.csprojAssemblyReference.cache
+F:\Projetos\Novos\2020\EstruturaVazia\CSN.MESCDPTC.Service\obj\Debug\CSN.MESCDPTC.Service.csproj.CoreCompileInputs.cache
+F:\Projetos\Novos\2020\EstruturaVazia\CSN.MESCDPTC.Service\obj\Debug\CSN.MESCDPTC.Service.exe
+F:\Projetos\Novos\2020\EstruturaVazia\CSN.MESCDPTC.Service\obj\Debug\CSN.MESCDPTC.Service.pdb

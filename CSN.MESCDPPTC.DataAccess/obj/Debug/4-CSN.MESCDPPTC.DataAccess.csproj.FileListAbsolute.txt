@@ -1,0 +1,13 @@
+F:\Projetos\Novos\2020\EstruturaVazia\CSN.MESCDPPTC.DataAccess\obj\Debug\4-CSN.MESCDPPTC.DataAccess.csprojAssemblyReference.cache
+F:\Projetos\Novos\2020\EstruturaVazia\CSN.MESCDPPTC.DataAccess\obj\Debug\4-CSN.MESCDPPTC.DataAccess.csproj.CoreCompileInputs.cache
+F:\Projetos\Novos\2020\EstruturaVazia\CSN.MESCDPPTC.DataAccess\obj\Debug\CSN.MESCDPPTC.DataAccess.dll
+F:\Projetos\Novos\2020\EstruturaVazia\CSN.MESCDPPTC.DataAccess\obj\Debug\CSN.MESCDPPTC.DataAccess.pdb
+F:\Projetos\Novos\2020\EstruturaVazia\CSN.MESCDPPTC.DataAccess\bin\Debug\CSN.MESCDPPTC.DataAccess.dll
+F:\Projetos\Novos\2020\EstruturaVazia\CSN.MESCDPPTC.DataAccess\bin\Debug\CSN.MESCDPPTC.DataAccess.pdb
+F:\Projetos\Novos\2020\EstruturaVazia\CSN.MESCDPPTC.DataAccess\bin\Debug\CSN.MESCDPTC.Domain.dll
+F:\Projetos\Novos\2020\EstruturaVazia\CSN.MESCDPPTC.DataAccess\bin\Debug\Iesi.Collections.dll
+F:\Projetos\Novos\2020\EstruturaVazia\CSN.MESCDPPTC.DataAccess\bin\Debug\NHibernate.dll
+F:\Projetos\Novos\2020\EstruturaVazia\CSN.MESCDPPTC.DataAccess\bin\Debug\CSN.MESCDPTC.Domain.pdb
+F:\Projetos\Novos\2020\EstruturaVazia\CSN.MESCDPPTC.DataAccess\bin\Debug\Iesi.Collections.xml
+F:\Projetos\Novos\2020\EstruturaVazia\CSN.MESCDPPTC.DataAccess\bin\Debug\NHibernate.xml
+F:\Projetos\Novos\2020\EstruturaVazia\CSN.MESCDPPTC.DataAccess\obj\Debug\4-CSN.MESCDPPTC.DataAccess.csproj.CopyComplete
